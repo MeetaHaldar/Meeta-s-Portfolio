@@ -1,0 +1,60 @@
+section img {
+  width: 500px;
+  height: 500px;
+}
+.myname {
+  font-size: 3rem;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-weight: bolder;
+}
+.para {
+  font: 1.7rem;
+}
+/* .normal-text{
+  font-size: 1.1rem;
+} */
+.bck {
+  border-radius: 50%;
+}
+.sizee {
+  width: 350px;
+  height: 350px;
+}
+.navbar-brand-font{
+  font-size:3.5rem !important;
+  font-family: 'Dancing Script', cursive;
+  line-height: 3;
+  
+}
+.navbar-big-font{
+  font-size: 1.1rem;
+}
+.skill-background
+{
+  background-color: rgb(127, 204, 255);
+}
+.header-background{
+  background-color: rgb(128, 241, 128);
+}
+
+.another-background{
+  background-color: rgb(248, 121, 71);
+}
+.project-background{
+  background-color: rgb(252, 227, 85);
+}
+.background-nn{
+  background-color: rgb(235, 14, 124);
+}
+.icon:hover{
+ color:gold !important;
+}
+.nav-link
+{
+  border-radius: 5px !important;
+}
+.nav-link:hover{
+  background-color:gold !important;
+  color: #222 !important;
+ 
+}
