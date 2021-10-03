@@ -29,19 +29,31 @@ section img {
 .navbar-big-font{
   font-size: 1.1rem;
 }
+
+/* new backgrounds */
+.logo-color{
+ color: #A12568;
+}
+.first-color{
+  background-color: #3D2C8D;
+}
 .skill-background
 {
-  background-color: rgb(127, 204, 255);
+  background-color: #C996CC;
 }
 .header-background{
-  background-color: rgb(128, 241, 128);
+  background-color: #A2CDCD;
 }
 
 .another-background{
-  background-color: rgb(248, 121, 71);
+  background-color: #C996CC;
 }
 .project-background{
-  background-color: rgb(252, 227, 85);
+  background-color: #916BBF;
+}
+.work-background
+{
+  background-color: #222;
 }
 .background-nn{
   background-color: rgb(235, 14, 124);
@@ -54,7 +66,7 @@ section img {
   border-radius: 5px !important;
 }
 .nav-link:hover{
-  background-color:gold !important;
+  background-color:#A12568 !important;
   color: #222 !important;
  
 }
