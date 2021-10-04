@@ -2,6 +2,9 @@ section img {
   width: 500px;
   height: 500px;
 }
+.img-fluid{
+  border-radius: 50% !important;
+}
 .myname {
   font-size: 3rem;
   font-family: 'IBM Plex Sans Thai Looped', sans-serif;
