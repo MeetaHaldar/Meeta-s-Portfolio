@@ -1,6 +1,7 @@
 # Meeta's Portfolio
 
 My portfolio 💛🖤
+You can connect me through this ...
 
 
  
